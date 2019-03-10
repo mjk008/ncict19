@@ -2104,10 +2104,10 @@ body {
   text-align: center;
 }
 .cid-rk1ml73AAP .mbr-timeline-date B {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-rk1ml73AAP .mbr-timeline-title {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-rk1ri2Zb3I {
   padding-top: 60px;
@@ -2223,57 +2223,45 @@ body {
 .cid-rk1xIijjN6 P {
   color: #232323;
 }
-.cid-rk1DhlM5d7 {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-rkdq7AD6xB {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #efefef;
 }
-.cid-rk1DhlM5d7 .carousel-item {
+.cid-rkdq7AD6xB .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rkdq7AD6xB .media-row {
+  display: -webkit-flex;
   justify-content: center;
   -webkit-justify-content: center;
 }
-.cid-rk1DhlM5d7 .carousel-item.active,
-.cid-rk1DhlM5d7 .carousel-item-next,
-.cid-rk1DhlM5d7 .carousel-item-prev {
-  display: flex;
+.cid-rkdq7AD6xB .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-rk1DhlM5d7 .carousel-controls a {
-  transition: opacity .5s;
-  font-size: 2rem;
-}
-.cid-rk1DhlM5d7 .carousel-controls a span {
-  position: absolute;
-  top: 180px;
-  padding: 10px;
-  border-radius: 50%;
-  color: #585858;
-  background: #c8c6c6;
-  opacity: .5;
-}
-.cid-rk1DhlM5d7 .carousel-controls a:hover span {
-  opacity: 1;
-}
-.cid-rk1DhlM5d7 .user_image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: 0 auto 2rem auto;
-}
-.cid-rk1DhlM5d7 .user_image img {
+.cid-rkdq7AD6xB .team-item .item-image img {
   width: 100%;
-  min-width: 100%;
-  min-height: 100%;
 }
-@media (max-width: 230px) {
-  .cid-rk1DhlM5d7 .user_image {
-    width: 100%;
-    height: auto;
-  }
+.cid-rkdq7AD6xB .team-item .item-name p {
+  margin-bottom: 0;
 }
-.cid-rk1DhlM5d7 .user_desk {
+.cid-rkdq7AD6xB .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rkdq7AD6xB .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rkdq7AD6xB .team-item .item-social .socicon {
   color: #232323;
+  font-size: 17px;
+}
+.cid-rkdq7AD6xB .team-item .item-caption {
+  background: #ffffff;
 }
 .cid-rk1HdFtQwT {
   padding-top: 90px;
